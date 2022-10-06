@@ -5,24 +5,22 @@
 	color: white;
 }
 
-div.background div.zindex nav ul li a {
+.background div nav ul li a {
 	background-color: grey;
 	margin-right: 2%;
 	padding: 1%;
-	z-index: 2;
+	border-radius: 2%;
 }
 
-div.background div.zindex nav ul li a:hover {
+.background div nav ul li a:hover {
 	opacity: .7;
 	background-color: grey;
-	z-index: 2;
 }
 
-div.background div.zindex h1.center {
+.background div h1.center {
 	display: flex;
 	align-items: center;
 	justify-content: center;
-	z-index: 2;
 }
 
 /* fond d'écran */

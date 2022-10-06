@@ -1,0 +1,27 @@
+* {
+	list-style: none;
+	text-decoration: none;
+	font-family: "Arial";
+	color: white;
+}
+
+nav ul li a {
+	background-color: grey;
+	margin-right: 2%;
+	padding: 1%;
+}
+
+nav ul li a:hover {
+	opacity: .7;
+	background-color: grey;
+}
+
+body {
+	background-color: black;
+}
+
+h1.center {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}

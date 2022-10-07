@@ -5,19 +5,19 @@
 	color: white;
 }
 
-.bubbles div nav ul li a {
+.bubbles div.sujet nav ul li a {
 	background-color: grey;
 	margin-right: 2%;
 	padding: 1%;
 	border-radius: 10px;
 }
 
-.bubbles div nav ul li a:hover {
+.bubbles div.sujet nav ul li a:hover {
 	opacity: .7;
 	background-color: grey;
 }
 
-.bubbles div h1.center {
+.bubbles div.sujet h1.center {
 	display: flex;
 	align-items: center;
 	justify-content: center;
